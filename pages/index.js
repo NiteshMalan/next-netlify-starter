@@ -13,14 +13,14 @@ export default function Home() {
       <main>
         <Header title="Welcome to Paraphrase Check!!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Submitted your abstracts now <code>pages/index.js</code>
         </p>
 <form>
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>Abstract 1: <input type="text" name="name" /></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>Abstract 2: <input type="email" name="email" /></label>
   </p>
   <p>
     <label>Message: <textarea name="message"></textarea></label>
